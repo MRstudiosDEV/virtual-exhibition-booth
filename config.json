@@ -1,0 +1,45 @@
+{
+    "title": "Exhibition Booth Fancy Title",
+    "cameraAnimationDuration": 900,
+    "grid": {
+      "position_x": -800,
+      "position_z": -800,
+      "position_y": 9,
+      "size": 1600,
+      "cell": 200,
+      "visible": true
+    },
+    "cells": [
+      {
+        "index_x": 6,
+        "index_z": 5,
+        "stand": {
+          "title": "Stand 1",
+          "url": "https://www.ziehl-abegg.com/produkte/oelheizmotor#ueberblick"
+        }      
+      },{
+        "index_x": 2,
+        "index_z": 1,
+        "stand": {
+          "title": "Stand 2",
+          "url": "https://example.com"
+        }      
+      },
+      {
+        "index_x": 1,
+        "index_z": 4,
+        "stand": {
+          "title": "Stand 3",
+          "url": "https://example.com"
+        }      
+      },
+      {
+        "index_x": 7,
+        "index_z": 0,
+        "stand": {
+          "title": "Stand 4",
+          "url": "https://example.com"
+        }      
+      }
+    ]
+  }
