@@ -3,42 +3,64 @@
     "cameraAnimationDuration": 900,
     "grid": {
       "position_x": -800,
-      "position_z": -800,
+      "position_z": -1000,
       "position_y": 9,
       "size": 1600,
       "cell": 200,
-      "visible": true
+      "visible": false
     },
     "cells": [
       {
         "index_x": 6,
-        "index_z": 5,
-        "stand": {
-          "title": "Stand 1",
-          "url": "https://www.ziehl-abegg.com/produkte/oelheizmotor#ueberblick"
-        }      
-      },{
-        "index_x": 2,
         "index_z": 1,
         "stand": {
-          "title": "Stand 2",
-          "url": "https://example.com"
+          "type": "fe3owlet",
+          "title": "FE3owlet",
+          "url": "https://stage.za.io/products/ventilation-systems/fe3owlet"
+        }      
+      },{
+        "index_x": 3,
+        "index_z": 2,
+        "stand": {
+          "type": "maxventowlet",
+          "title": "MAXventowlet ECblue",
+          "url": "https://stage.za.io/products/ventilation-systems/maxvent"
         }      
       },
       {
         "index_x": 1,
-        "index_z": 4,
+        "index_z": 1,
         "stand": {
-          "title": "Stand 3",
-          "url": "https://example.com"
+          "type": "zaplus",
+          "title": "ZAplus",
+          "url": "https://stage.za.io/products/ventilation-systems/zaplus"
         }      
       },
       {
-        "index_x": 7,
-        "index_z": 0,
+        "index_x": 1,
+        "index_z": 6,
         "stand": {
-          "title": "Stand 4",
-          "url": "https://example.com"
+          "type": "zatopx",
+          "title": "ZAtopx",
+          "url": "https://stage.za.io/products/drive-technology/zatopx"
+        }      
+      },
+      {
+        "index_x": 3,
+        "index_z": 5,
+        "stand": {
+          "type": "zavblue",
+          "title": "ZAvblue",
+          "url": "https://stage.za.io/products/ventilation-systems/zavblue"
+        }      
+      },
+      {
+        "index_x": 6,
+        "index_z": 6,
+        "stand": {
+          "type": "bluefin",
+          "title": "ZAbluefin",
+          "url": "https://stage.za.io/products/ventilation-systems/za-bluefin"
         }      
       }
     ]
